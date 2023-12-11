@@ -1,7 +1,5 @@
 # Um Hotel Para Terabithia
 
-![Hotel Icon](link_para_uma_imagem.png)
-
 ## Descrição
 Este é um projeto de sistema de gerenciamento de hotel desenvolvido em JavaScript. Ele oferece diversas funcionalidades para facilitar a administração e operação de um hotel.
 
